@@ -1,5 +1,5 @@
-const pronombres = ["my", "your", "their"];
-const adjetivos = ["great", "awesome", "best"];
+const pronombres = ["my", "our", "their"];
+const adjetivos = ["super", "awesome", "best"];
 const sustantivos = ["website", "domain", "place"];
 const domainHacks = ["site", "hub", "now"];
 
